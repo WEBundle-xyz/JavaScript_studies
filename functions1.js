@@ -1,3 +1,5 @@
+// Rest and Spread Operator
+
 function greetUser(greetingPrefix, userName = 'user') {
 	console.log(greetingPrefix + ' ' + userName + '!');
 }
@@ -18,16 +20,14 @@ function greetUser(greetingPrefix, userName = 'user') {
 
 // console.log(sumUp([3, 54, 54, 12, 1, 4]);
 
-
 function sumUp(...numbers) {
-  let result = 0;
+	let result = 0;
 
-  for (const number of numbers) {
-    result += number;
-  }
+	for (const number of numbers) {
+		result += number;
+	}
 
-  return result;
-
+	return result;
 }
 
 const inputNumbers = [3, 54, 54, 12, 1, 4, 3, 6, 78];
