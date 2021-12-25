@@ -20,7 +20,7 @@
 
 [10 - Classes and Methods ](../../tree/20860257a13330083f95fdb208e89f895fb79480/)
 
-[11 - Empty ](../../tree//)
+[11 - Array and Object destructuring ](../../tree/45069be0e1730e73d2b6a756b860bfd6c1f88348/)
 
 [12 - Empty ](../../tree//)
 
