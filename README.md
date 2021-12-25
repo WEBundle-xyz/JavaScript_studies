@@ -14,8 +14,12 @@
 
 [7 - Errors - try / catch ](../../tree/9699ff6042f98f30446686d8d63c0565414fe9cd/)
 
-[8 - Empty ](../../tree//)
+[8 - Scoping and Shadowing ](../../tree/a4d94ed1274f8f748ef39bf1c5f87fa33a1b9efd/)
 
-[9 - Empty ](../../tree//)
+[9 - Classes as object-blueprint ](../../tree//)
 
 [10 - Empty ](../../tree//)
+
+[11 - Empty ](../../tree//)
+
+[12 - Empty ](../../tree//)
