@@ -10,7 +10,7 @@
 
 [5 - Template literal string ](../../tree/3de9bc279a47bac33c5bf5f18b93e37add08ce7d/)
 
-[6 - Empty ](../../tree//)
+[6 - Primitives vs. Reference values ](../../tree/111e6539b707625023a287fa6c07282b8ebbc072/)
 
 [7 - Empty ](../../tree//)
 
