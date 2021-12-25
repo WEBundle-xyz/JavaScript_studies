@@ -18,7 +18,7 @@
 
 [9 - Classes as object-blueprint ](../../tree/6c872bb9ffd2fef81f58b23c561f44597e7d8c8b/)
 
-[10 - Classes and Methods ](../../tree//)
+[10 - Classes and Methods ](../../tree/20860257a13330083f95fdb208e89f895fb79480/)
 
 [11 - Empty ](../../tree//)
 
