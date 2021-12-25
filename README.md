@@ -12,7 +12,7 @@
 
 [6 - Primitives vs. Reference values ](../../tree/111e6539b707625023a287fa6c07282b8ebbc072/)
 
-[7 - Empty ](../../tree//)
+[7 - Errors - try / catch ](../../tree/9699ff6042f98f30446686d8d63c0565414fe9cd/)
 
 [8 - Empty ](../../tree//)
 
