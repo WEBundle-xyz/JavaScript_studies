@@ -16,10 +16,16 @@
 
 [8 - Scoping and Shadowing ](../../tree/a4d94ed1274f8f748ef39bf1c5f87fa33a1b9efd/)
 
-[9 - Classes as object-blueprint ](../../tree//)
+[9 - Classes as object-blueprint ](../../tree/6c872bb9ffd2fef81f58b23c561f44597e7d8c8b/)
 
-[10 - Empty ](../../tree//)
+[10 - Classes and Methods ](../../tree//)
 
 [11 - Empty ](../../tree//)
 
 [12 - Empty ](../../tree//)
+
+[13 - Empty ](../../tree//)
+
+[14 - Empty ](../../tree//)
+
+[15 - Empty ](../../tree//)
